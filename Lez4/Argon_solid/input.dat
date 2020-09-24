@@ -1,0 +1,23 @@
+0
+0.8
+108
+1.1
+2.2
+0.0005
+100000
+100
+10
+1000
+
+  Argon Solid Phase
+
+  ReadInput >> stab;  Stabilize if true
+  ReadInput >> temp;
+  ReadInput >> npart;
+  ReadInput >> rho;
+  ReadInput >> rcut;
+  ReadInput >> delta;
+  ReadInput >> nstep;
+  ReadInput >> nblocks;
+  ReadInout >> nmeasure;
+  ReadInput >> iprint;

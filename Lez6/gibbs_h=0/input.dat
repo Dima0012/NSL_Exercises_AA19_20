@@ -1,0 +1,20 @@
+50
+1.0
+0.0
+0
+20
+10000
+0
+0
+0
+
+  ReadInput >> temp; //here read from temp.dat
+  ReadInput >> nspin;
+  ReadInput >> J;
+  ReadInput >> h;
+  ReadInput >> metro;  //if 1 Metropolis else Gibbs
+  ReadInput >> nblk;
+  ReadInput >> nstep;
+  ReadInput >> insta  //if 1 print instantaneous values
+  ReadInput >> equil  //Steps for equlibration; if 0 use deafult steps nstep/10
+  ReadInput >> restart //if = 1, read configuration from config.final 

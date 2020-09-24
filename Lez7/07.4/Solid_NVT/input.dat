@@ -1,0 +1,17 @@
+0.8
+108
+1.1
+2.2
+0.1
+100
+2000
+500
+
+  ReadInput >> temp;
+  ReadInput >> npart;
+  ReadInput >> rho;
+  ReadInput >> rcut;
+  ReadInput >> delta;
+  ReadInput >> nblk;
+  ReadInput >> nstep; //Step in each block
+  ReadInput >> equil; //if 0, use default steps nstep;

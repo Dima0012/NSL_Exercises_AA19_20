@@ -1,0 +1,21 @@
+0
+1.1
+108
+0.8
+2.5
+0.0005
+1000
+10
+10
+1000
+
+  ReadInput >> stab;  Rescale veloity to stabilize if true
+  ReadInput >> temp;
+  ReadInput >> npart;
+  ReadInput >> rho;
+  ReadInput >> rcut;
+  ReadInput >> delta;
+  ReadInput >> nstep;	//Step in each block
+  ReadInput >> nblocks;
+  ReadInout >> nmeasure;
+  ReadInput >> iprint;
