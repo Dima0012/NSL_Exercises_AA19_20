@@ -1,6 +1,6 @@
-Esercizi del corso ***Laboratorio di Simulazione Numerica*** (***AA 19-20***)
+## Matteo Di Mario 907985
 
-Matteo Di Mario 907985
+## Esercizi del corso ***Laboratorio di Simulazione Numerica*** (***AA 19-20***)
 
 Le cartelle con gli esercizi contengono i codici già compilati (comando `make clean` o `./clean.sh` per eliminare eseguibili, oggetti e dati) 
 
