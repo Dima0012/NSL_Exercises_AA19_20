@@ -2,6 +2,8 @@
 
 ## Esercizi del corso ***Laboratorio di Simulazione Numerica*** (***AA 19-20***)
 
-Le cartelle con gli esercizi contengono i codici già compilati (comando `make clean` o `./clean.sh` per eliminare eseguibili, oggetti e dati) 
+Le cartelle con gli esercizi contengono i codici già compilati (comando `make clean` o `./clean.sh` per eliminare eseguibili, oggetti e dati). 
 
 I risultati numerici sono solitamente contenuti nella cartella *Data* ; **attenzione**: eliminare i file con i dati prima di eseguire nuovamente il programma, per evitare sovrascrizioni indesiderate.
+
+Tutti gli eseguibili si eseguono con il comando `./main.exe` ; se ci sono delle varibaili in input, sono lette dal file `input.dat` .
