@@ -16,7 +16,4 @@ ${MAIN}: ${OBJECTS}
 	${CC} -c $< -o $@ ${CFLAGS} #${INCS} ${LIBS}
 
 clean:
-	rm *.o ${MAIN} seed.out
-
-clean_data:
-	rm Data/*.out
+	rm *.o ${MAIN} seed.out Data/*.out
