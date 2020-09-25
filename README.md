@@ -1,4 +1,4 @@
-Esercizi del corso ***Laboratorio di Simulazione Numerica***
+Esercizi del corso ***Laboratorio di Simulazione Numerica*** (***AA 19-20***)
 
 Matteo Di Mario 907985
 
